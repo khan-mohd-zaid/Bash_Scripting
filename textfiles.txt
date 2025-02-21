@@ -1,0 +1,4 @@
+-rw-rw-r-- 1 m-dkhan m-dkhan  27 Feb 19 16:28 Concatenate.txt
+-rw-rw-r-- 1 m-dkhan m-dkhan  54 Feb 19 18:45 input.txt
+-rw-rw-r-- 1 m-dkhan m-dkhan  94 Feb 19 18:50 output.txt
+-rw-rw-r-- 1 m-dkhan m-dkhan   0 Feb 19 18:57 textfiles.txt

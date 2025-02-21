@@ -1,0 +1,2 @@
+This command will overwrite the file content in the output.txt
+This content will be appended.
